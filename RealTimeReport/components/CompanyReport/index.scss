@@ -1,0 +1,33 @@
+.wrap {
+  width: 100%;
+  margin-top: 5px;
+}
+.left {
+  width: 100%;
+  background-color: #ffffff;
+}
+.leftContent {
+  float: left;
+  width: 18%;
+  background-color: #f4f4f4;
+  margin-left: 10px;
+}
+.right {
+  background-color: "blue";
+  overflow-x: scroll;
+  // background-color: #fff;
+}
+.rightContent {
+  width: 480px;
+  // background-color: #fff;
+}
+
+.explanation {
+  margin: 5px 10px;
+  box-sizing: border-box;
+  background: #fff;
+  border-radius: 6px;
+  padding: 10px 20px;
+  font-size: 12px;
+  color: #90959A; 
+}
